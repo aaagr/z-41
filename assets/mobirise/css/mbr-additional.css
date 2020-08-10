@@ -1047,20 +1047,6 @@ section.lazy-placeholder:after {
     padding: 1rem !important;
   }
 }
-.cid-s48NINvv3j {
-  background-image: url("../../../assets/images/orig-480p.gif");
-}
-.cid-s48NINvv3j .mbr-section-subtitle {
-  letter-spacing: .2rem;
-}
-.cid-s48NINvv3j .media-container-column {
-  background-color: #232323;
-}
-@media (max-width: 767px) {
-  .cid-s48NINvv3j .media-container-column {
-    padding: 1rem !important;
-  }
-}
 .cid-s2zwUkRv4U {
   background: linear-gradient(45deg, #e4d295, #ff3366);
 }
