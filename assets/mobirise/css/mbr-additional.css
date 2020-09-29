@@ -1948,49 +1948,6 @@ section.lazy-placeholder:after {
 .cid-s2APBtaw9n H4 {
   color: #efefef;
 }
-.cid-sbMML3PFji {
-  padding-top: 45px;
-  padding-bottom: 45px;
-  background-color: #ff3366;
-}
-.cid-sbMML3PFji .mbr-section-subtitle {
-  color: #000000;
-}
-.cid-sbMML3PFji .media-row {
-  display: -webkit-flex;
-  justify-content: center;
-  -webkit-justify-content: center;
-}
-.cid-sbMML3PFji .team-item {
-  transition: all .2s;
-  margin-bottom: 2rem;
-}
-.cid-sbMML3PFji .team-item .item-image img {
-  width: 100%;
-}
-.cid-sbMML3PFji .team-item .item-name p {
-  margin-bottom: 0;
-}
-.cid-sbMML3PFji .team-item .item-role p {
-  margin-bottom: 0;
-}
-.cid-sbMML3PFji .team-item .item-social {
-  display: -webkit-flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  -webkit-flex-wrap: wrap;
-  -webkit-justify-content: center;
-}
-.cid-sbMML3PFji .team-item .item-social .socicon {
-  color: #232323;
-  font-size: 17px;
-}
-.cid-sbMML3PFji .team-item .item-caption {
-  background: #efefef;
-}
-.cid-sbMML3PFji H2 {
-  color: #ffffff;
-}
 .cid-s2zAxbWFsb {
   background: linear-gradient(45deg, #55b4d4, #073b4c);
 }
